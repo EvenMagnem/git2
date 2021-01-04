@@ -2,4 +2,4 @@
 
 Yup, really just basic stuff to learn
 
-Alrighty.
+Open the index.html to get started.
